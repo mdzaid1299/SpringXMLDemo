@@ -1,2 +1,4 @@
-package org.example;public class Appconfig {
+package org.example;
+
+public class Appconfig {
 }
